@@ -1,0 +1,75 @@
+.garage-search {
+  text-align: center;
+  margin: 20px;
+  direction: rtl !important;
+}
+
+.garage-search h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.garage-search select {
+  font-size: 16px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.garage-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.garage {
+  width: 250px;
+  height: 120px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.garage h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.garage .garage button {
+  font-size: 14px;
+  padding: 5px 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.garage button:hover {
+  background-color: #45a049;
+}
+
+/* Add additional styles as needed */
+.more-details {
+  padding: 5px 30px;
+  border: 0;
+  border-radius: 5px;
+  background-color: #4caf50;
+}
+.title {
+  text-align: center !important;
+}
+.modal-dialog {
+  direction: rtl !important;
+}
+span {
+  font-size: 20px;
+  font-weight: bold;
+}
