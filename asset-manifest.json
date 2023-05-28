@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/API-Class-HomeWork-In-React/static/css/main.480aedea.css",
+    "main.js": "/API-Class-HomeWork-In-React/static/js/main.084a4bcf.js",
+    "index.html": "/API-Class-HomeWork-In-React/index.html",
+    "main.480aedea.css.map": "/API-Class-HomeWork-In-React/static/css/main.480aedea.css.map",
+    "main.084a4bcf.js.map": "/API-Class-HomeWork-In-React/static/js/main.084a4bcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.480aedea.css",
+    "static/js/main.084a4bcf.js"
+  ]
+}
