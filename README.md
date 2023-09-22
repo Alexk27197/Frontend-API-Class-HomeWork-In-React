@@ -16,8 +16,6 @@ A responsive travel booking website designed to showcase popular travel destinat
 ## Technologies Used 🚀
 
 - **React**: Front-end framework for building user interfaces.
-- **Styled Components**: For styled UI components.
-- (Add any other significant libraries or tools you used.)
 
 ## Installation & Setup 🛠️
 
