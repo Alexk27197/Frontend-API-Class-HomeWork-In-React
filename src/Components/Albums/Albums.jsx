@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./Albums.css";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, Pagination, Scrollbar, A11y } from "swiper";
+import { Navigation, Scrollbar, A11y } from "swiper";
 import "swiper/swiper-bundle.min.css";
 import Navbar from "../Navbar/Navbar";
 
@@ -10,6 +10,7 @@ const Albums = () => {
   const [selectedAlbum, setSelectedAlbum] = useState(null);
   const [photos, setPhotos] = useState([]);
   const [users, setUsers] = useState([]);
+
   useEffect(() => {
     fetchAlbums();
   }, []);

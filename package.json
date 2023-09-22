@@ -1,5 +1,4 @@
 {
-  "homepage": "http://Alexk27197.github.io/API-Class-HomeWork-In-React",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -41,8 +40,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
   }
 }
