@@ -28,7 +28,7 @@ A responsive travel booking website designed to showcase popular travel destinat
 
 2. Move into the repository:
     ```bash
-    cd alex-travel-website
+    cd Frontend-API-Class-HomeWork-In-React
     ```
 
 3. Install dependencies:
